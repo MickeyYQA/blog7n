@@ -11,7 +11,8 @@ title: About
 
 ### YOU7N IRL
 
-- 是一名北京某国际部的高二 (2026届) 学生。
+- 16岁，是一名北京某国际部的高二 (2026届) 学生
+- 技术宅。
 - 喜欢学习语言：中文 · English · Deutsche · 日本語 (熟练度降序排列) \| [多邻国](https://www.duolingo.com/profile/you7n?via=share_profile)。
 - 最爱游戏：ゼルダの伝説 (BOTW 最高！)、现代俄罗斯方块([我的TETR.IO主页](https://ch.tetr.io/u/you7n)))
 - 喜欢的音乐：Vocaloid / Classical
@@ -20,7 +21,7 @@ title: About
 
 - you7n 这个名字来源于小学四年级暑假上日语课的时候のぞみ老师对我的称呼，ヨウちゃん。
 - 你可以任选其一发音我的名字均可：
-  - < ヨウちゃん > [jo̞ː t͡ɕʲiäŋ];
+  - < ヨウちゃん > [jo̞ː.t͡ɕʲiäŋ];
   - < Y-O-U-7-N > [waɪ.oʊ.juː.t͡ɕʰi˥.en];
   - < you-7-N > [juː.t͡ɕʰi˥.en];
   - < ヨウナナン > [jo̞ːnɑ̈nɑ̈n].
