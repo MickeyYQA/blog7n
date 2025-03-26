@@ -32,8 +32,7 @@
   --body-color: var(--gray-700);
   --body-bg: #fff;
 
-  --text-font: Times, "Times New Roman", "Free Serif", "Noto Serif", TimesNewRomanPSMT, "Droid Serif";
-
+  --text-font: "Inter", "Source Sans Pro", "Lato", "Helvetica Neue", Arial, "Noto Sans CJK SC", "PingFang SC", "Microsoft YaHei", sans-serif;
   --link-color: var(--blue);
   --link-hover-color: #1c7ed6;
 
@@ -44,7 +43,7 @@
 
   --code-font: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --code-color: var(--grape);
-  --code-bg: #fbf1c7;
+  --code-bg: #efeaf5;
 
   --spacer: 1rem;
   --spacer-2: calc(var(--spacer) * 1.5);
