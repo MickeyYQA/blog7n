@@ -2,7 +2,7 @@
 layout: post
 title: 一款能展示Web页面的屏幕保护程序：WebViewScreenSaver（附使用例） / MacOSX Screen Saver powered by Web Pages - WebViewScreenSaver
 date: 2024-11-02
-tags: [macOS, dev]
+tags: [开发]
 toc:  true
 author: you7n
 ---

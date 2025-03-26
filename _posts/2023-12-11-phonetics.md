@@ -3,7 +3,7 @@ layout: post
 title: Phonetics Notes / 语音学笔记
 date: 2023-12-11 20:07
 last_modified_at:  2023-12-15日 22:50
-tags: [linguistics, phonetics, iol]
+tags: [语言学]
 toc:  true
 author: you7n
 ---

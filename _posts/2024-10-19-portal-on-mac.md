@@ -2,7 +2,7 @@
 layout: post
 title: 如何在64位macOS上运行32位Portal / Guide to Installing 32-bit Portal on 64-bit macOS
 date: 2024-10-19
-tags: [macOS, game, portal, dev]
+tags: [游戏, 开发]
 toc:  true
 author: you7n
 math: true

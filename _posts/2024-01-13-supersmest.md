@@ -2,7 +2,7 @@
 layout: post
 title: The Twists and Turns of Building a Website for Conrad / 竞赛做网站曲折经历.html
 date: 2024-01-13 19:32 +0800
-tags: [html, supersmest, conrad, dev]
+tags: [技术, Conrad]
 toc:  true
 author: you7n
 ---

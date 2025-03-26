@@ -2,7 +2,7 @@
 layout: post
 title: 【已解决】消除macOS 15.2以上版本频繁录屏提示
 date: 2025-02-12
-tags: [macOS, dev]
+tags: [开发]
 author: you7n
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: CSP-J 题目复习 2020-16 [字符映射]
 date: 2023-07-15 22:11
-tags: [csp, dev]
+tags: [信息学奥赛]
 author: you7n
 ---
 2020年CSP普及组第一轮第16题。

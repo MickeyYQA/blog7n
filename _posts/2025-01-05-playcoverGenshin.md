@@ -2,7 +2,7 @@
 layout: post
 title: 使用PlayCover在macOS上运行原神及FAQ / FAQs on Running Genshin Impact with PlayCover
 date: 2025-01-05
-tags: [macOS, dev]
+tags: [开发]
 toc:  true
 author: you7n
 ---

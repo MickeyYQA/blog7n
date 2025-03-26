@@ -2,7 +2,7 @@
 layout: post
 title: List of some real useful website / 一些超有用的网站
 date: 2024-06-08
-tags: [dev]
+tags: [技术]
 toc:  true
 author: you7n
 ---
