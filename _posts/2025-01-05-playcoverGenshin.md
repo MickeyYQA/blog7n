@@ -5,6 +5,7 @@ date: 2025-01-05
 tags: [开发]
 toc:  true
 author: you7n
+comments: true
 ---
 在原神不支持原生macOS游戏的情况下催生出的替代解决办法——PlayCover。
 {: .message }

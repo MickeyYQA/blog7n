@@ -4,6 +4,7 @@ title: 【已解决】在macOS上安装KenLM
 date: 2025-02-12
 tags: [开发]
 author: you7n
+comments: true
 ---
 KenLM 是一个高效的 n-gram 语言模型库，但在 Mac 上安装时遇到了各种问题。弄了一晚上加一上午终于安装好了，本文记录了成功安装 KenLM 的方法。
 {: .message }

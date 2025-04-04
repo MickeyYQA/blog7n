@@ -6,6 +6,7 @@ tags: [游戏, 开发]
 toc:  true
 author: you7n
 math: true
+comments: true
 ---
 一款适用于macOS15及以下的、在macOS上运行32位游戏的教程。
 {: .message }

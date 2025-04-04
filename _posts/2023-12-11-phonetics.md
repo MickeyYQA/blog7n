@@ -6,6 +6,7 @@ last_modified_at:  2023-12-15日 22:50
 tags: [语言学]
 toc:  true
 author: you7n
+comments: true
 ---
 
 早期语音学笔记、不是很完善。主要在介绍IPA。

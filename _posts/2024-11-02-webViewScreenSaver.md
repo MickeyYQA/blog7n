@@ -5,6 +5,7 @@ date: 2024-11-02
 tags: [开发]
 toc:  true
 author: you7n
+comments: true
 ---
 这个好玩——能展示Web页面的macOS屏保程序。/ Mac OS X Screen Saver powered by a Web View
 {: .message }

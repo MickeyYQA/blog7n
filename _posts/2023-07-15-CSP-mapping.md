@@ -4,6 +4,7 @@ title: CSP-J 题目复习 2020-16 [字符映射]
 date: 2023-07-15 22:11
 tags: [信息学奥赛]
 author: you7n
+comments: true
 ---
 2020年CSP普及组第一轮第16题。
 ```cpp

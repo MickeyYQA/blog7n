@@ -6,6 +6,7 @@ tags: [人工智能, 技术]
 toc:  true
 author: Mickey Yang · Ethan Meng · Connor Wu · Leo Qiu · Jocelyn Cai
 math: true
+comments: true
 ---
 
 An effective method for detecting rip currents, which pose significant hazards to beachgoers, using artificial intelligence. A binary classification model on aerial images of the ocean is trained, utilizing Multi-Layer Perceptron classifiers and achieving a testing accuracy of 73.9%, and an accuracy of 92.5% after applying a confidence threshold.
