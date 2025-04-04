@@ -9,10 +9,11 @@ author: you7n
 ---
 
 早期语音学笔记、不是很完善。主要在介绍IPA。
-
-This article contains phonetic symbols. Without proper rendering support, you may see [question marks, boxes, or other symbols](https://en.wikipedia.org/wiki/Specials_(Unicode_block)#Replacement_character) instead of phonetic symbols.
-本页面有语音学符号，操作系统及浏览器须支持特殊字母与符号才能正确显示为语音学符号，否则可能变成[乱码、问号、空格](https://en.wikipedia.org/wiki/Specials_(Unicode_block)#Replacement_character)等其它符号。
 {: .message}
+
+> This article contains phonetic symbols. Without proper rendering support, you may see question marks, boxes, or other symbols instead of phonetic symbols.
+> 本页面有语音学符号，操作系统及浏览器须支持特殊字母与符号才能正确显示为语音学符号，否则可能变成乱码、问号、空格等其它符号。
+
 
 ## Section I
 ## 0x00 Study of Sounds 语音之学
