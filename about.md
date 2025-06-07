@@ -40,6 +40,7 @@ languages:
   - Java
   - HTML/CSS/JavaScript
   - Markdown + LaTeX
+  - Flutter
 ```
 
 ## About this site
