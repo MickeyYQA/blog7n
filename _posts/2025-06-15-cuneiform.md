@@ -34,3 +34,7 @@ comments: true
 这封信，不仅情绪饱满、措辞犀利，而且逻辑清晰、立场坚定，简直就是古代“消费者维权”的典范。谁说古人不懂维权？就算是几千年前，人们也一样会为了被骗、被拖货、被敷衍而怒不可遏——只是没有键盘，只能用刀在泥上刻出一封封“差评”。
 
 **历史的另一头，也有吐槽的声音在回响。人类千年如一日：差的服务，谁都忍不了。**
+
+---
+
+翻译自：[This 3,800-Year-Old Tablet Contains The World’s First Customer Service Complaint](https://allthatsinteresting.com/first-customer-service-complaint-ea-nasir), by Bernadette Deron.
