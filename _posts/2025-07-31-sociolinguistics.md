@@ -78,7 +78,7 @@ Language standardisation is a historical process with 3 stages:
 
 #### Binding languages with flags?
 
-![duolingo](src/image-1.png)
+<img width="2938" height="1522" alt="image" src="https://github.com/user-attachments/assets/56001d25-995e-49f3-8164-a9489f8f05ad" />
 
 What's wrong? It assumes that people coming form the same country all speak the same language (**monolingual ideology**), OR assumes that a language is only spoken in one way (**standard language ideology**).
 
@@ -117,7 +117,7 @@ resists language change over time.
 
 #### Combining resources to generate meaning
 
-![graffito](image-2.png)
+<img width="1066" height="736" alt="image" src="https://github.com/user-attachments/assets/83f794ce-b714-497b-b7d3-93409c6497f9" />
 
 Different languages: Russian, Deutsch, English;
 Different varieties: "_faggots_" as in slang;
@@ -430,7 +430,7 @@ To test language attitudes, we use [direct methods as well as indirect methods](
   - What varieties do people themselves distinguish? / where do they draw boundaries between varieties?
   - What do they think about these vairetis / what words do they use to talk about them?
 
-![Michigan](src/image-3.png)
+<img width="1304" height="790" alt="image" src="https://github.com/user-attachments/assets/c76621c7-5fac-4f12-9f87-1665ee45a97b" />
 
 (_Citizen Science: Involve people to collect data. E.g., ask people to count the number of birds outside their window_)
 
