@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Introduction to Sociolinguistics Notes"
+title: "Evening Lecture Notes | Universiteit Leiden Summer School of Linguistics"
 date: 2025-07-31
 tags: [语言学,莱顿]
 comments: true
 toc: true
 ---
-
-## Evening Lecture Notes
 
 ### Category of evidentiality in Abkhaz
 

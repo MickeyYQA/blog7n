@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Introduction to Sociolinguistics Notes"
+title: "Introduction to Sociolinguistics Notes | Universiteit Leiden Summer School of Linguistics"
 date: 2025-07-31
 tags: [语言学,莱顿]
 comments: true
 toc: true
 ---
-## Introduction to Sociolinguistics | Universiteit Leiden Summer School of Linguistics
 
 with Professor Marina **Terkourafi**
 
