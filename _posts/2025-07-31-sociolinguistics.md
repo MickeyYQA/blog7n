@@ -444,9 +444,9 @@ E.g., Stimmen fan Fryslân "_Voices of Fryslân_"; Norwegian project "_Taking th
 - Appropriation: imitating the way other people speak for personal gain or profit.
   - A kind of "stealing".
 
-## DAY 9: LINGUISTIC LANDSCAPE
+### DAY 9: LINGUISTIC LANDSCAPE
 
-### Linguiﬆic landscape
+#### Linguiﬆic landscape
 
 The language of public domains combines to form the linguiﬆic landscape of a given territory, region, or urban agglomeration.
 
@@ -468,7 +468,7 @@ can be revealing for:
 - language policies,
 - [language ideologies](#monolingual-ideology).
 
-### Geosemiotics
+#### Geosemiotics
 
 How signs socially conﬆruct public space and function as communicative resources by the people who make them and the people who use them.
 
@@ -482,11 +482,11 @@ Signs function differently for their creators and for their users. Creators perf
 
 Semiotic landscapes: emphasizes use of non-linguiﬆic resources on signs.
 
-### Mobile linguiﬆic landscapes
+#### Mobile linguiﬆic landscapes
 
 Signs can move across time and space, also across media (from digital media to physical world).
 
-### Embodiment
+#### Embodiment
 
 People use their bodies themselves in everyday interections to generate meaning. E.g., bodily modifications and tattoos.
 
@@ -496,21 +496,21 @@ People use their bodies themselves in everyday interections to generate meaning.
 
 **Hand geﬆures**. E.g., Petite bouche.
 
-## DAY 10: MOBILITY, CONTACT, AND FLOWS
+### DAY 10: MOBILITY, CONTACT, AND FLOWS
 
-### Mobility
+#### Mobility
 
 People, resources, indexical meanings aand values travel across space and time. Language resources are shaped **_by_ mobility** (contact varieties) and **_for_ mobility** (enable transnational flows).
 
 A two-way process: people's repertoires are **records of mobility** and by taking their language resources with them into new contexts, people **change those contexts** as well.
 
-### Globalization and Superdiversity
+#### Globalization and Superdiversity
 
 **Globalization**: originally a sense of loss of differences ("Americanization"): homogenization and domination. More recently, increased interconnectedness and possibilities for **back-and-forth flows**, challenging and changing eﬆablished hierarchies of resources; de-territorialization.
 
 **Superdiversity**:
 
-### Contact linguiﬆics
+#### Contact linguiﬆics
 
 - ﬆudies how "languages" change when they (or their users) come into contact with one another.
 
@@ -520,12 +520,12 @@ A two-way process: people's repertoires are **records of mobility** and by takin
 
 Borrowing: new semantic or indexical meaning from one language to another.
 
-#### When contact is between **mutually intelligible** varieties, the results is
+##### When contact is between **mutually intelligible** varieties, the results is
 
 - **Dialect levelling**: loss of most irregular features of these varieties; can lead to
 - **koineization** (from _koiné_, common, shared): emergence of a new variety that combines features from different varieties.
 
-#### When **mutually unintelligible**
+##### When **mutually unintelligible**
 
 Pidgin varieties & Creole languages.
 
@@ -537,8 +537,8 @@ Due to the unequal status of speakers, one language gives the vocabulary (lexifi
 
 Creoles often exist in a stable **diglossic** relationship with the lex. language in the communities where they are spoken.
 
-### From contact to flows and scales
+#### From contact to flows and scales
 
 In contact linguistics, contact happens between language varieties that are viewed as separate and stable.
 
-### Hip-hop and global flows
+#### Hip-hop and global flows
