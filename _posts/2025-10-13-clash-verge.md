@@ -11,7 +11,7 @@ comments: true
 
 这两天主播在学校连校园网，遇到了一个非常之诡异的现象。不开VPN能正常上外网，开了VPN却什么网都上不了了，连VPN的服务器都ping不通。用[检测IP地址的网站](https://www.ipjiance.com)（这个很好用！）一看，发现自己的IP在塞舌尔？？问题是我买的VPN甚至没有塞舌尔的节点。。。而且其他同学之前也遇到过一样的问题，来问主包主包也没能解决，这次在自己的电脑上比较好实验，于是探索了一下。
 
-<img width="1644" height="1522" alt="19905f661f6ff90bedf2f5bbc16ab64f" src="https://github.com/user-attachments/assets/9f85b371-01b9-45bb-b64a-1b094d8b302c" />
+<img width="822" height="761" alt="19905f661f6ff90bedf2f5bbc16ab64f" src="https://github.com/user-attachments/assets/9f85b371-01b9-45bb-b64a-1b094d8b302c" />
 
 主包用MacBook Air M2, macOS 15.6.1, VPN软件是Clash Verge 2.3.2。（不得不吐槽一下Verge这个垃圾软件，经常自己在后台未响应，有时候还打不开UI（ '▿ ' 💧）。要不是我的VPN配置只能在Verge导入我就用Clash X了。）
 
