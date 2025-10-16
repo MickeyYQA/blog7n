@@ -9,6 +9,12 @@ comments: true
 KenLM 是一个高效的 n-gram 语言模型库，但在 Mac 上安装时遇到了各种问题。弄了一晚上加一上午终于安装好了，本文记录了成功安装 KenLM 的方法。
 {: .message }
 
+二编：收到了邮件说帮助ta解决了大问题好高兴！欢迎去围观：[【转载】在macOS上使用pip本地安装kenlm - 🛠工具与编程 - 始徒](https://forum.beginner.center/t/topic/1813)
+
+<img width="681" height="463" alt="image" src="https://github.com/user-attachments/assets/3b709cb8-b7dc-40da-af36-50ba3bfd11cf" />
+
+---
+
 如果你使用 Python 3.10 以上版本，你可能适用这个解决办法。其他解决办法参见：
 
 - 修改```setup.py```：[Zhihu/98137373](https://zhuanlan.zhihu.com/p/98137373)
