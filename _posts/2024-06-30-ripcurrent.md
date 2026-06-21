@@ -4,7 +4,7 @@ title: Binary Classification of Rip Current Images Using Artificial Intelligence
 date: 2024-06-30
 tags: [人工智能, 技术]
 toc:  true
-author: Mickey Yang · Ethan Meng · Connor Wu · Leo Qiu · Jocelyn Cai
+author: N/A
 math: true
 comments: true
 ---

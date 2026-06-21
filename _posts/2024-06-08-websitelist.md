@@ -12,9 +12,6 @@ Here is a list of real useful websites ^ ^
 
 ## - Linguistics Related ඩ -
 
-ඩඩඬඩඩ We have an imposter here
-{: .message}
-
 [古今文字集成](http://www.ccamc.co)
 - 漢字、西夏文、契丹文、女真文、女書、八思巴文字典
 
